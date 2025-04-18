@@ -22,3 +22,4 @@
 
 Если вам нужен постоянный доступ к свежим и точным данным, лучше обратить внимание на платные решения и подписки.
 [Usersbox Зеркало](https://t.me/usersbox_analog_glaza_boga_bot)
+[Телеграм боты для поиска информации](https://telegra.ph/Telegram-boty-dlya-poiska-informacii-i-analiza-dannyh-04-18)
