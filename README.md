@@ -22,3 +22,5 @@
 
 Если вам нужен постоянный доступ к свежим и точным данным, лучше обратить внимание на платные решения и подписки.
 [Телеграм боты для поиска информации](https://telegra.ph/Telegram-boty-dlya-poiska-informacii-i-analiza-dannyh-04-18)
+
+[Ссылка для индексации](https://github.com/DarkDiabolos/indexing/)
